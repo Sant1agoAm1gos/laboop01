@@ -4,7 +4,6 @@ class lab0101
 {
     static void Main()
     {
-        Console.WriteLine("Конвертація валют");
 
         Console.Write("введіть суму у гривнях: ");
         double uah = Convert.ToDouble(Console.ReadLine());
